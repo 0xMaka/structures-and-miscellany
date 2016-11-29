@@ -1,4 +1,4 @@
-// example about structrues
+// example about structres
 #include <iostream>
 #include <string>
 #include <sstream>
