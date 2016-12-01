@@ -1,6 +1,5 @@
-// arrays s parameters
+// arrays as parameters
 #include <iostream>
-
 using namespace std;
 
 void printarray (int arg[], int length) { 

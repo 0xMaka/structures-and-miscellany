@@ -1,11 +1,8 @@
 // go to loop example
 #include <iostream>
-
 using namespace std;
 
-int main ()
-
-{ 
+int main () { 
   int n=10;
 mylabel:
   cout <<n << ", ";
