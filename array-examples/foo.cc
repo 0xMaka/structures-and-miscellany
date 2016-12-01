@@ -1,5 +1,5 @@
+// example of a pointer 
 #include <iostream>
-
 using namespace std;
 
 int main () {

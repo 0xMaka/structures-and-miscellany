@@ -1,5 +1,4 @@
 // continue-loop example
-
 #include <iostream>
 using namespace std;
 
